@@ -1,0 +1,86 @@
+[
+	{
+		"street": "8064 Brewerton Rd",
+		"city": "Cicero",
+		"state": "New York",
+		"state_usps": "NY",
+		"zipcode": "13039"
+	},
+	{
+		"street": "420 Buckland Hills Dr",
+		"city": "Manchester",
+		"state": "Connecticut",
+		"state_usps": "CT",
+		"zipcode": "06040"
+	},
+	{
+		"street": "34 Saint James Pl",
+		"city": "Buffalo",
+		"state": "New York",
+		"state_usps": "NY",
+		"zipcode": "14222"
+	},
+	{
+		"street": "170 E Fort Morgan Rd",
+		"city": "Gulf Shores",
+		"state": "Alabama",
+		"state_usps": "AL",
+		"zipcode": "36542"
+	},
+	{
+		"street": "1180 Fall River Ave Ste 2",
+		"city": "Seekonk",
+		"state": "Massachusetts",
+		"state_usps": "MA",
+		"zipcode": "02771"
+	},
+	{
+		"street": "636 Greenwich St",
+		"city": "Philadelphia",
+		"state": "Pennsylvania",
+		"state_usps": "PA",
+		"zipcode": "19147"
+	},
+	{
+		"street": "5919 Trussville Crossings Pkwy",
+		"city": "Birmingham",
+		"state": "Alabama",
+		"state_usps": "AL",
+		"zipcode": "35235"
+	},
+	{
+		"street": "840 Pine St",
+		"city": "BURLINGTON",
+		"state": "Vermont",
+		"state_usps": "VT",
+		"zipcode": "05401"
+	},
+	{
+		"street": "D Berry Dr",
+		"city": "Mountain View",
+		"state": "California",
+		"state_usps": "CA",
+		"zipcode": "94043"
+	},
+	{
+		"street": "900 Boston Post Road",
+		"city": "Guilford",
+		"state": "Connecticut",
+		"state_usps": "CT",
+		"zipcode": "06437"
+	},
+	{
+		"street": "46094 133rd St",
+		"city": "Wilmot",
+		"state": "South Dakota",
+		"state_usps": "SD",
+		"zipcode": "57279"
+	},
+	{
+		"street": "750 Academy Drive",
+		"city": "Bessemer",
+		"state": "Alabama",
+		"state_usps": "AL",
+		"zipcode": "35022"
+	}
+]
